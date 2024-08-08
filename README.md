@@ -18,7 +18,7 @@ The graph-based **Supplier Knowledge Base** uses the following ontology: :blue_b
 
 Classification of the SKB based on the MIS architecture.
 
-<img width="604" alt="SKB" src="https://github.com/user-attachments/assets/a5274163-77ea-462a-b043-5df79ce98bdd">
+![SKB](/../main/docs/src/images/SKB.PNG)
 
 
 The following use cases can be performed with the SKB.
